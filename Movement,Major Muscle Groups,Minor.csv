@@ -1,0 +1,47 @@
+Movement,Major Muscle Groups,Minor Muscle Groups
+Air Squat,Quadriceps,Glutes,Hamstrings,Core,Calves,Erector Spinae
+Back Squat,Quadriceps,Glutes,Hamstrings,Core,Erector Spinae,Calves,Trapezius
+Front Squat,Quadriceps,Glutes,Core,Hamstrings,Erector Spinae,Deltoids,Trapezius
+Overhead Squat,Quadriceps,Glutes,Core,Deltoids,Hamstrings,Erector Spinae,Trapezius,Triceps
+Deadlift,Glutes,Hamstrings,Erector Spinae,Latissimus Dorsi,Core,Trapezius,Quadriceps,Forearms
+Sumo Deadlift High Pull,Glutes,Hamstrings,Trapezius,Deltoids,Core,Erector Spinae,Quadriceps,Forearms
+Clean,Glutes,Hamstrings,Quadriceps,Core,Deltoids,Trapezius,Latissimus Dorsi,Calves,Forearms
+Clean and Jerk,Glutes,Hamstrings,Quadriceps,Core,Deltoids,Trapezius,Triceps,Latissimus Dorsi,Calves,Forearms
+Snatch,Glutes,Hamstrings,Quadriceps,Core,Deltoids,Trapezius,Latissimus Dorsi,Calves,Forearms
+Power Clean,Glutes,Hamstrings,Quadriceps,Core,Deltoids,Trapezius,Latissimus Dorsi,Calves,Forearms
+Power Snatch,Glutes,Hamstrings,Quadriceps,Core,Deltoids,Trapezius,Latissimus Dorsi,Calves,Forearms
+Push Press,Deltoids,Triceps,Core,Quadriceps,Glutes,Trapezius,Pectoralis Major,Calves
+Push Jerk,Deltoids,Triceps,Core,Quadriceps,Glutes,Trapezius,Pectoralis Major,Calves
+Thruster,Quadriceps,Glutes,Deltoids,Triceps,Core,Hamstrings,Trapezius,Pectoralis Major
+Bench Press,Pectoralis Major,Triceps,Deltoids,Core,Latissimus Dorsi,Serratus Anterior
+Pull-Up,Latissimus Dorsi,Biceps,Core,Trapezius,Rhomboids,Deltoids,Forearms
+Strict Pull-Up,Latissimus Dorsi,Biceps,Core,Trapezius,Rhomboids,Deltoids,Forearms
+Kipping Pull-Up,Latissimus Dorsi,Biceps,Core,Trapezius,Rhomboids,Deltoids,Forearms,Hip Flexors
+Butterfly Pull-Up,Latissimus Dorsi,Biceps,Core,Trapezius,Rhomboids,Deltoids,Forearms,Hip Flexors
+Bar Muscle-Up,Latissimus Dorsi,Biceps,Triceps,Core,Pectoralis Major,Deltoids,Trapezius,Rhomboids,Forearms
+Ring Muscle-Up,Latissimus Dorsi,Biceps,Triceps,Core,Pectoralis Major,Deltoids,Trapezius,Rhomboids,Forearms
+Handstand Push-Up,Deltoids,Triceps,Core,Pectoralis Major,Trapezius,Latissimus Dorsi
+Strict Handstand Push-Up,Deltoids,Triceps,Core,Pectoralis Major,Trapezius,Latissimus Dorsi
+Kipping Handstand Push-Up,Deltoids,Triceps,Core,Pectoralis Major,Trapezius,Latissimus Dorsi,Hip Flexors
+Handstand Walk,Deltoids,Triceps,Core,Trapezius,Latissimus Dorsi,Pectoralis Major,Forearms
+Toes-to-Bar,Core,Latissimus Dorsi,Hip Flexors,Biceps,Forearms
+Kipping Toes-to-Bar,Core,Latissimus Dorsi,Hip Flexors,Biceps,Forearms
+Hanging Knee Raise,Core,Hip Flexors,Latissimus Dorsi,Biceps,Forearms
+L-Sit Hold,Core,Hip Flexors,Quadriceps,Triceps,Deltoids,Latissimus Dorsi
+Rope Climb,Latissimus Dorsi,Biceps,Forearms,Core,Trapezius,Rhomboids,Deltoids,Glutes,Quadriceps
+Push-Up,Pectoralis Major,Triceps,Deltoids,Core,Serratus Anterior
+Ring Dip,Triceps,Pectoralis Major,Deltoids,Core,Latissimus Dorsi
+Box Jump,Glutes,Quadriceps,Hamstrings,Calves,Core
+Kettlebell Swing,Glutes,Hamstrings,Core,Erector Spinae,Deltoids,Trapezius,Forearms
+American Kettlebell Swing,Glutes,Hamstrings,Core,Deltoids,Trapezius,Erector Spinae,Forearms
+Dumbbell Snatch,Glutes,Hamstrings,Quadriceps,Core,Deltoids,Trapezius,Forearms
+Kettlebell Snatch,Glutes,Hamstrings,Quadriceps,Core,Deltoids,Trapezius,Forearms
+Wall Ball,Quadriceps,Glutes,Core,Deltoids,Triceps,Hamstrings,Pectoralis Major
+Burpee,Quadriceps,Glutes,Pectoralis Major,Triceps,Core,Hamstrings,Deltoids,Calves
+Double-Under,Calves,Core,Deltoids,Forearms
+Running,Quadriceps,Hamstrings,Glutes,Calves,Core,Hip Flexors
+Rowing,Latissimus Dorsi,Quadriceps,Glutes,Hamstrings,Core,Biceps,Trapezius,Rhomboids,Forearms
+Assault Bike,Quadriceps,Glutes,Hamstrings,Calves,Core,Deltoids,Biceps,Triceps
+GHD Sit-Up,Core,Hip Flexors,Quadriceps
+Back Extension,Glutes,Hamstrings,Erector Spinae,Core
+Barbell Row,Latissimus Dorsi,Trapezius,Rhomboids,Biceps,Core,Deltoids,Forearms
