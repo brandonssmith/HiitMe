@@ -9,12 +9,10 @@ import {
   InputLabel,
   Select,
   MenuItem,
-  TextField,
   Button,
   Grid,
   Chip,
   Stack,
-  Alert,
   Divider,
 } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
@@ -49,7 +47,6 @@ const WorkoutGenerator = () => {
   const [generatedWorkout, setGeneratedWorkout] = useState(null);
 
   const workoutTypes = ['AMRAP', 'For Time', 'EMOM', 'Tabata', 'Rounds for Time'];
-  const difficultyLevels = ['beginner', 'intermediate', 'advanced'];
   const focusAreas = ['strength', 'cardio', 'endurance', 'power', 'mobility'];
   const muscleGroups = [
     'chest',
